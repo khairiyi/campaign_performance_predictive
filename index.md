@@ -1,8 +1,15 @@
 ## Mindshare Analytics Product
+### Disclaimer
+- The data sections are censored for security purpose
+- This project is just for demonstration purpose
+
 ### Air Canada Campaign Performance Predictive Tool
 
 <img src="r_app.PNG" class="img-responsive" alt=""> 
 
+### Integrated Campaign Dashboard
+
+<img src="Overview.PNG" class="img-responsive" alt=""> 
 
 
 # Product details
