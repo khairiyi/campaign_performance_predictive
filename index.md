@@ -1,4 +1,5 @@
-## Mindshare Analytics Product
+## Mindshare Analytics: AC Campaign Performance Predictive Tool
+
 ### Disclaimer
 - The data sections are censored for security purpose
 - This project is just for demonstration purpose
