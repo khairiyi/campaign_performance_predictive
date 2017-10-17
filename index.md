@@ -18,7 +18,7 @@
 
 # Product details
 
-## Problems:
+## Problems Solved:
 - When planning new campaigns, planners can only use past, similar campagins' performance, to estimate the new campaign. 
 - It does not accurately predict each tactics/vendors' performance
 - Past data are too huge/complicated to use, to predict the new campaigns' performance.
