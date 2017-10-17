@@ -3,13 +3,17 @@
 - The data sections are censored for security purpose
 - This project is just for demonstration purpose
 
+
 ### Air Canada Campaign Performance Predictive Tool
 
 <img src="r_app.PNG" class="img-responsive" alt=""> 
 
+
 ### Integrated Campaign Dashboard
 
-<img src="Overview.PNG" class="img-responsive" alt=""> 
+<img src="Overview.png" class="img-responsive" alt=""> 
+
+
 
 
 # Product details
@@ -22,7 +26,7 @@
 ## Predictive Tool
 - Utilize historical data, and build data library for each tactic/vendor used in all time.
 - Predict a campaign's performance at planning phase, as accurate as on tactic/vendor level.
-- Campaign A|B testing, based on different campaign plans using the tool.
+- Campaign A|B testing: based on the outputs of the tool, run different campaign plans,
 
 ## Methodologies
 - Bootstrap + Weighted Summation + Distribution Percentile. 
