@@ -1,9 +1,11 @@
-### Mindshare Analytics Prodcut
-## Air Canada Campaign Performance Predictive Tool
+## Mindshare Analytics Product
+### Air Canada Campaign Performance Predictive Tool
 
 <img src="r_app.PNG" class="img-responsive" alt=""> 
 
-### Product details
+
+
+# Product details
 
 ## Problems:
 - When planning new campaigns, planners can only use past, similar campagins' performance, to estimate the new campaign. 
@@ -25,7 +27,7 @@
 
 ## Users
 - Mindshare Planning Team
-- Clients
+- Air Canada Clients
 
 ## Market-fit:
 - Planners adopt this tool, and routinely use this app to plan new campaigns
