@@ -26,7 +26,7 @@
 ## Predictive Tool
 - Utilize historical data, and build data library for each tactic/vendor used in all time.
 - Predict a campaign's performance at planning phase, as accurate as on tactic/vendor level.
-- Campaign AB testing: based on the outputs of the tool, run different campaign plans,
+- Campaign A/B testing: based on the outputs of the tool, run different campaign plans,
 
 ## Methodologies
 - Bootstrap + Weighted Summation + Distribution Percentile. 
