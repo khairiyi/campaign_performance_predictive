@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+### Mindshare Analytics Prodcut
+## Air Canada Campaign Performance Predictive Tool
 
-You can use the [editor on GitHub](https://github.com/khairiyi/campaign_performance_predictive/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="r_app.PNG" class="img-responsive" alt=""> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Product details
 
-### Markdown
+## Problems:
+- When planning new campaigns, planners can only use past, similar campagins' performance, to estimate the new campaign. 
+- It does not accurately predict each tactics/vendors' performance
+- Past data are too huge/complicated to use, to predict the new campaigns' performance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Predictive Tool
+- Utilize historical data, and build data library for each tactic/vendor used in all time.
+- Predict a campaign's performance at planning phase, as accurate as on tactic/vendor level.
+- Campaign A|B testing, based on different campaign plans using the tool.
 
-```markdown
-Syntax highlighted code block
+## Methodologies
+- Bootstrap + Weighted Summation + Distribution Percentile. 
+- Output: Predicted KPIs and the ranges of prediction. 
 
-# Header 1
-## Header 2
-### Header 3
+## UX/UI
+- R app, shared with team members through internal network links.
+- Tableau dahsboard to display the predictive results.
 
-- Bulleted
-- List
+## Users
+- Mindshare Planning Team
+- Clients
 
-1. Numbered
-2. List
+## Market-fit:
+- Planners adopt this tool, and routinely use this app to plan new campaigns
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khairiyi/campaign_performance_predictive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
